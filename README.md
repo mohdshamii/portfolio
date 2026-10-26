@@ -5,13 +5,7 @@ Building intelligent systems, data-driven solutions, and impactful AI projects.
 
 ---
 
-##  Live Website
 
-🔗 https://codexshami.github.io/
-
-🔗 https://codexshami.github.io/portfolio/
-
----
 
 ##  About Me
 
@@ -66,10 +60,8 @@ npm run build
 ##  Contact Me
 
 *  Email: [codexshami@gmail.com](mailto:codexshami@gmail.com)
-*  LinkedIn: https://linkedin.com/in/codexshami
-*  GitHub: https://github.com/codexshami
-
 ---
+
 
 ##  Support
 
